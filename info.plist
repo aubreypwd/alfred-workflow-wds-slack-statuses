@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.aubreypwd.alfred-workflow-wds-slack-statuses</string>
+	<key>connections</key>
+	<dict>
+		<key>18E561D2-8EDB-43C1-A746-1BC80299EF8E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6B2CC3C2-9A3D-4FFB-A9D6-566CF01E19A9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1B4291E9-96FB-4671-A4FB-37CF4C87D3EA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>1F990799-8D3A-41A8-BA5E-C2AFD16ED5D4</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CAEF259E-2094-4913-A696-542DB653A6A1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>23F5E263-211D-4F47-87B8-3F3E836A0744</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>4B7DA974-6A24-466B-BB1D-3F59777A0D62</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>24307E5A-C5A1-4BC8-8FAB-5D7FA7A50200</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EADC7821-0CB0-42E4-BAAE-640085ED7245</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>25803A0F-3A92-4AD7-898A-058F9821A26C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6B2CC3C2-9A3D-4FFB-A9D6-566CF01E19A9</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>6A445567-03F5-4BD8-8FE8-BB4CF0F1F919</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>38A603A5-F5B2-4E2F-B72F-89C4C618AEDC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>857C8B57-4409-4DBC-B046-C1CF0AE393D3</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>423ACFCD-0845-4B3A-9FDD-366E15D879D1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>423E0937-22E4-437A-978E-F2AF6AFDCED8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4B7DA974-6A24-466B-BB1D-3F59777A0D62</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6A445567-03F5-4BD8-8FE8-BB4CF0F1F919</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6B2CC3C2-9A3D-4FFB-A9D6-566CF01E19A9</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>857C8B57-4409-4DBC-B046-C1CF0AE393D3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A4FBE98D-508A-47D8-91D5-604D93DFF0BD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1B4291E9-96FB-4671-A4FB-37CF4C87D3EA</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>B054591A-C423-4916-8271-59D00BE6897D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>423ACFCD-0845-4B3A-9FDD-366E15D879D1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BB989E6B-BD3A-404C-9BC5-A80E84B84C96</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>423E0937-22E4-437A-978E-F2AF6AFDCED8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>C32400D9-D90D-4040-AF03-3413E7ED9B65</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EFAF529C-3230-4A0A-A13B-F89C594B6C27</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CAEF259E-2094-4913-A696-542DB653A6A1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E771820B-9EBC-4538-9640-247D5AAEA9D6</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EADC7821-0CB0-42E4-BAAE-640085ED7245</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EFAF529C-3230-4A0A-A13B-F89C594B6C27</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>FB50FE07-7DF0-4443-B1C9-5022C22375ED</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E771820B-9EBC-4538-9640-247D5AAEA9D6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>Aubrey Portwood</string>
+	<key>description</key>
+	<string>An easy way (for me) to set slack statuses at WebDevStudios.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>WDS Slack Statuses</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl working</string>
+				<key>subtext</key>
+				<string>e.g. working &gt; on firemon</string>
+				<key>text</key>
+				<string>You're working.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>B054591A-C423-4916-8271-59D00BE6897D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status &amp; emoji.
+status="Working {query} (may be delayed response)"
+emoji=":computer:"
+
+# Set as active, but set status to working.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send status to notification
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>423ACFCD-0845-4B3A-9FDD-366E15D879D1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl dnd</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Do not disturb.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>FB50FE07-7DF0-4443-B1C9-5022C22375ED</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>126</integer>
+				<key>script</key>
+				<string># The status &amp; emoji.
+status="Do not disturb {query} (most likely delayed response)"
+emoji=":no_entry_sign:"
+
+# Set as active, but set status to working.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send status to notification
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E771820B-9EBC-4538-9640-247D5AAEA9D6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status.
+status="AFK/Break {query}"
+emoji=":brb:"
+
+# Set away, then set status.
+/usr/local/bin/slack presence away &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Tell the channel the status.
+/usr/local/bin/slack chat send --text "$status $emoji" --channel "general"
+
+# Send back the status to notification.
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>CAEF259E-2094-4913-A696-542DB653A6A1</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl break</string>
+				<key>subtext</key>
+				<string>e.g. break &gt; grabbing coffee</string>
+				<key>text</key>
+				<string>You're on a break...</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>1F990799-8D3A-41A8-BA5E-C2AFD16ED5D4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>soundname</key>
+				<string>Submarine</string>
+				<key>systemsound</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.playsound</string>
+			<key>uid</key>
+			<string>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl afk</string>
+				<key>subtext</key>
+				<string>e.g. afk &gt; grabbing coffee</string>
+				<key>text</key>
+				<string>You're AFK.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>23F5E263-211D-4F47-87B8-3F3E836A0744</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status.
+status="AFK/Break {query}"
+emoji=":brb:"
+
+# Set away, then set status.
+/usr/local/bin/slack presence away &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send back the status to notification.
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>4B7DA974-6A24-466B-BB1D-3F59777A0D62</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl off</string>
+				<key>subtext</key>
+				<string>e.g.: off &gt; to play some tennis</string>
+				<key>text</key>
+				<string>Off for the day.</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>BB989E6B-BD3A-404C-9BC5-A80E84B84C96</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status and emoji.
+status="{query}"
+emoji=""
+
+# Set status.
+/usr/local/bin/slack presence away &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Tell the channel the status.
+# /usr/local/bin/slack chat send --text "Signing off! :wave: $status" --channel "general"
+
+# Send notification.
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>423E0937-22E4-437A-978E-F2AF6AFDCED8</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status &amp; emoji.
+status="Working on Microsoft {query} (may be delayed response)"
+emoji=":ms:"
+
+# Set as active, but set status to working.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send status to notification
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>1B4291E9-96FB-4671-A4FB-37CF4C87D3EA</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl ms</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>You're working on Microsoft</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>A4FBE98D-508A-47D8-91D5-604D93DFF0BD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Set as active, but clear status.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "{query}" &gt; /dev/null 2&gt;&amp;1
+
+# Send notification.
+echo "Cleared"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6B2CC3C2-9A3D-4FFB-A9D6-566CF01E19A9</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl here</string>
+				<key>subtext</key>
+				<string>e.g. here &gt; looking for work</string>
+				<key>text</key>
+				<string>Just here...</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>18E561D2-8EDB-43C1-A746-1BC80299EF8E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl madi</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>You're working on Madicorp</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>C32400D9-D90D-4040-AF03-3413E7ED9B65</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status &amp; emoji.
+status="Working on MADICorp {query} (may be delayed response)"
+emoji=":madicorp:"
+
+# Set as active, but set status to working.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send status to notification
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EFAF529C-3230-4A0A-A13B-F89C594B6C27</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Tell the channel the status.
+/usr/local/bin/slack chat send --text ":back:" --channel "general"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>6A445567-03F5-4BD8-8FE8-BB4CF0F1F919</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sl back</string>
+				<key>subtext</key>
+				<string>e.g. back</string>
+				<key>text</key>
+				<string>Back!</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>25803A0F-3A92-4AD7-898A-058F9821A26C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl nc</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>You're working on NewsCorp</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>24307E5A-C5A1-4BC8-8FAB-5D7FA7A50200</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># The status &amp; emoji.
+status="Working on NewsCorp {query} (may be delayed response)"
+emoji=":rolled_up_newspaper:"
+
+# Set as active, but set status to working.
+/usr/local/bin/slack presence active &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send status to notification
+echo "$status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EADC7821-0CB0-42E4-BAAE-640085ED7245</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string># Status and emoji.
+status="Internal/Client Call {query} (will respond after call)"
+emoji=":phone:"
+
+# Set status.
+/usr/local/bin/slack presence away &gt; /dev/null 2&gt;&amp;1
+/usr/local/bin/slack status edit --text "$status" --emoji "$emoji" &gt; /dev/null 2&gt;&amp;1
+
+# Send notification.
+echo "Away: $status"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>857C8B57-4409-4DBC-B046-C1CF0AE393D3</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>sl call</string>
+				<key>subtext</key>
+				<string>e.g. call &gt; with firemon team</string>
+				<key>text</key>
+				<string>On a Call</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>38A603A5-F5B2-4E2F-B72F-89C4C618AEDC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>An easy way to set slack statuses at WDS.
+
+This workflow requires the sl command line tool https://github.com/rockymadden/slack-cli and for it to be integrated with your Slack workspace.
+
+This is highly customized for me, but you can maybe fork and/or tweak for your own purposes.</string>
+	<key>uidata</key>
+	<dict>
+		<key>18E561D2-8EDB-43C1-A746-1BC80299EF8E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>1B4291E9-96FB-4671-A4FB-37CF4C87D3EA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>900</integer>
+			<key>ypos</key>
+			<integer>790</integer>
+		</dict>
+		<key>1F990799-8D3A-41A8-BA5E-C2AFD16ED5D4</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>320</integer>
+		</dict>
+		<key>23F5E263-211D-4F47-87B8-3F3E836A0744</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>24307E5A-C5A1-4BC8-8FAB-5D7FA7A50200</key>
+		<dict>
+			<key>xpos</key>
+			<integer>720</integer>
+			<key>ypos</key>
+			<integer>1030</integer>
+		</dict>
+		<key>25803A0F-3A92-4AD7-898A-058F9821A26C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>980</integer>
+		</dict>
+		<key>38A603A5-F5B2-4E2F-B72F-89C4C618AEDC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>1120</integer>
+		</dict>
+		<key>423ACFCD-0845-4B3A-9FDD-366E15D879D1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>423E0937-22E4-437A-978E-F2AF6AFDCED8</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>740</integer>
+		</dict>
+		<key>4B7DA974-6A24-466B-BB1D-3F59777A0D62</key>
+		<dict>
+			<key>note</key>
+			<string>AFK but does not tell general.</string>
+			<key>xpos</key>
+			<integer>570</integer>
+			<key>ypos</key>
+			<integer>450</integer>
+		</dict>
+		<key>63D6641E-BAA5-4678-B9F8-A9EDE869B3BB</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1140</integer>
+			<key>ypos</key>
+			<integer>380</integer>
+		</dict>
+		<key>6A445567-03F5-4BD8-8FE8-BB4CF0F1F919</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>980</integer>
+		</dict>
+		<key>6B2CC3C2-9A3D-4FFB-A9D6-566CF01E19A9</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>870</integer>
+		</dict>
+		<key>857C8B57-4409-4DBC-B046-C1CF0AE393D3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>1120</integer>
+		</dict>
+		<key>A4FBE98D-508A-47D8-91D5-604D93DFF0BD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>720</integer>
+			<key>ypos</key>
+			<integer>790</integer>
+		</dict>
+		<key>B054591A-C423-4916-8271-59D00BE6897D</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>BB989E6B-BD3A-404C-9BC5-A80E84B84C96</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>740</integer>
+		</dict>
+		<key>C32400D9-D90D-4040-AF03-3413E7ED9B65</key>
+		<dict>
+			<key>xpos</key>
+			<integer>720</integer>
+			<key>ypos</key>
+			<integer>910</integer>
+		</dict>
+		<key>CAEF259E-2094-4913-A696-542DB653A6A1</key>
+		<dict>
+			<key>note</key>
+			<string>AFK but also tells General</string>
+			<key>xpos</key>
+			<integer>570</integer>
+			<key>ypos</key>
+			<integer>300</integer>
+		</dict>
+		<key>E771820B-9EBC-4538-9640-247D5AAEA9D6</key>
+		<dict>
+			<key>note</key>
+			<string>DND</string>
+			<key>xpos</key>
+			<integer>520</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>EADC7821-0CB0-42E4-BAAE-640085ED7245</key>
+		<dict>
+			<key>xpos</key>
+			<integer>900</integer>
+			<key>ypos</key>
+			<integer>1030</integer>
+		</dict>
+		<key>EFAF529C-3230-4A0A-A13B-F89C594B6C27</key>
+		<dict>
+			<key>xpos</key>
+			<integer>900</integer>
+			<key>ypos</key>
+			<integer>910</integer>
+		</dict>
+		<key>FB50FE07-7DF0-4443-B1C9-5022C22375ED</key>
+		<dict>
+			<key>xpos</key>
+			<integer>350</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/aubreypwd/alfred-workflow-slack-statuses</string>
+</dict>
+</plist>
