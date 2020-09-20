@@ -907,7 +907,7 @@ echo "Away: $status"</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>An easy way to set slack statuses at WDS.
+	<string>An easy way (for me) to set slack statuses at WebDevStudios.
 
 This workflow requires the sl command line tool https://github.com/rockymadden/slack-cli and for it to be integrated with your Slack workspace.
 
